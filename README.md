@@ -84,7 +84,7 @@ ZPell is built in 5 stages:
 ## Configuration Example
 
 ```toml
-# ~/.config/zpell/Config.cnf
+# ~/.config/zpell/Config.toml
 
 wordlist_path = "/usr/share/dict/words"
 dotfile_path = "~/.zpell"

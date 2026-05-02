@@ -3,8 +3,8 @@
 ## Configuration File Format
 
 ZPell uses TOML for configuration. The default location is:
-- `$XDG_CONFIG_HOME/zpell/Config.cnf`
-- Falls back to `~/.config/zpell/Config.cnf`
+- `$XDG_CONFIG_HOME/zpell/Config.toml`
+- Falls back to `~/.config/zpell/Config.toml`
 
 ## Example Configuration
 

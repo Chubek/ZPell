@@ -111,7 +111,7 @@ std::filesystem::path ConfigLoader::get_config_path() {
         }
     }
     
-    return config_dir / "zpell" / "Config.cnf";
+    return config_dir / "zpell" / "Config.toml";
 }
 
 } // namespace zpell

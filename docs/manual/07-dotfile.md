@@ -125,7 +125,7 @@ Load project-specific patterns:
 
 ```bash
 # Global patterns
-zpell --config ~/.config/zpell/Config.cnf
+zpell --config ~/.config/zpell/Config.toml
 
 # Project patterns
 zpell load-patterns ./.zpell
